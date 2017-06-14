@@ -1,0 +1,7 @@
+=========================================================================
+restarts              : 36
+conflicts             : 4198           (13078 /sec)
+decisions             : 5709           (17785 /sec)
+propagations          : 149009         (464198 /sec)
+conflict literals     : 57560                     
+CPU time              : 0.107001 s
